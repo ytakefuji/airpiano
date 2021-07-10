@@ -2,6 +2,8 @@
 
 https://youtu.be/7KCmVyRpSCo
 
+https://youtu.be/3J5xjW66MP8
+
 # How to install air-piano
 
 Python3.7 or Python3.8 is recommended for running air-piano. 
