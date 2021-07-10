@@ -25,6 +25,6 @@ Ring finger plays F5 note.
 
 Little finger plays G5 note.
 
-Moving thumb finger further plays A5 note.
+Moving thumb finger deeply plays A5 note.
 
 $ airpiano
