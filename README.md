@@ -27,4 +27,13 @@ Little finger plays G5 note.
 
 Moving thumb finger deeply plays A5 note.
 
+Moving thumb finger deeply and index finger plays B5 note.
+
+Moving thumb finger deeply and middle finger plays C6 note.
+
+Moving thumb finger deeply and ring finger plays D6 note.
+
+Moving thumb finger deeply and little finger plays E6 note.
+
+
 $ airpiano
