@@ -1,4 +1,4 @@
-# air_piano DEMO
+# airpiano DEMO
 "twinkle twinkle little star"
 https://youtu.be/7KCmVyRpSCo
 
@@ -14,10 +14,10 @@ https://youtu.be/oG3_ZsW3XrQ
 "The Cuckoo" 
 https://youtu.be/evyfpph-WOY
 
-# How to install air-piano
+# How to install airpiano
 
-Python3.7 or Python3.8 is recommended for running air-piano. 
-In order to run air-piano, the following libraries must be installed.
+Python3.7 or Python3.8 is recommended for running airpiano. 
+In order to run airpiano, the following libraries must be installed.
 
 $ pip install musicalbeeps
 
@@ -25,7 +25,7 @@ $ pip install mediapipe
 
 $ pip install airpiano
 
-# How to play air-piano
+# How to play airpiano
 
 Moving thumb finger plays C5 note.
 
