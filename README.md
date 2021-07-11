@@ -2,7 +2,17 @@
 "twinkle twinkle little star"
 https://youtu.be/7KCmVyRpSCo
 
+"Mary had a little lamb"
 https://youtu.be/3J5xjW66MP8
+
+"Tulip" 
+https://youtu.be/H7lwHb69ZgM
+
+"buzz buzz buzz" 
+https://youtu.be/oG3_ZsW3XrQ
+
+"The Cuckoo" 
+https://youtu.be/evyfpph-WOY
 
 # How to install air-piano
 
