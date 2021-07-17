@@ -1,3 +1,9 @@
+# What is airpiano?
+airpiano is a Python program to play airpiano composed of 123 lines code. 
+You can play 10 music notes by th right hand of five fingers.
+airpiano is based on the-state-of-the-art hand gesture recognition using mediapipe.
+airpiano uses musicalbeeps for generating music sounds by five fingers.
+
 # airpiano DEMO
 "twinkle twinkle little star"
 https://youtu.be/7KCmVyRpSCo
