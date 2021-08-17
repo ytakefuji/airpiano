@@ -1,4 +1,6 @@
 # What is airpiano?
+A paper on airpiano is under review. 
+When the paper is accepted, the contents of the air piano will be disclosed.
 airpiano is a Python program to play airpiano composed of 123 lines code. 
 You can play 10 music notes by th right hand of five fingers.
 airpiano is based on the-state-of-the-art hand gesture recognition using mediapipe.
