@@ -40,6 +40,8 @@ $ pip install mediapipe
 
 $ pip install airpiano
 
+$ pip install airpiano --force-reinstall --no-cache-dir --no-binary :all:
+
 # How to play airpiano
 
 Moving thumb finger plays C5 note.
