@@ -5,7 +5,7 @@ takefuji (2022) airpiano for playing piano in the air [Source Code]. https://doi
 
 This is under review.
 
-airpiano has been downloaded by 6651 users worldwide.
+airpiano has been downloaded by 10209 users worldwide.
 
 When the paper is accepted, the contents of the air piano will be disclosed.
 airpiano is a Python program to play airpiano composed of 123 lines code. 
