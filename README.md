@@ -1,4 +1,7 @@
 # What is airpiano?
+
+takefuji (2022) airpiano for playing piano in the air [Source Code]. https://doi.org/10.24433/CO.8862673.v1
+
 This is under review.
 
 A paper on airpiano is under review. 
